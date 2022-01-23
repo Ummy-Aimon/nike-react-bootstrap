@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital,wght@1,700&family=Poppins&family=Roboto:ital@0;1&display=swap');
+.image-logo{
+    width:150px;
+}
+.image-col{
+    width:450px;
+}
+.text-tamato{
+    color: tomato;
+}
+.text-blue{
+    color: rgb(8, 48, 61);
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.card-image{
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 6px;
+    
+
+}
+.title{
+    margin-bottom: 100px;
+    text-align: center;
+    margin-top: 80px;
+    color: rgb(8, 48, 61);
+    text-transform: uppercase;
+}
+.image{
+    height: 80px;
+    width: 80px;
+    /* border: 1px solid lightgrey;
+    border-radius: 6px; */
+    align-items: center;
+    margin-top: 20px;
+
+
+}
+.image-box{
+    width: 100%;
+}
+.shopping{
+    margin-top: 100px;
+}
